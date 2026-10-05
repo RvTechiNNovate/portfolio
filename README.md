@@ -2,6 +2,8 @@
 
 A responsive, dependency-free portfolio for GitHub Pages, built from the experience and projects in my résumé.
 
+**Live portfolio:** [rvtechinnovate.github.io/portfolio](https://rvtechinnovate.github.io/portfolio/)
+
 ## Preview locally
 
 The project uses the existing `uv` environment and Python's static file server:
